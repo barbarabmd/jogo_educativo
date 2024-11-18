@@ -50,7 +50,7 @@ Para utilizar o projeto, verifique se possui as seguintes ferramentas:
 1. Clone o repositório em sua máquina:
 
 ```bash 
-git clone 
+git clone https://github.com/barbarabmd/jogo_educativo.git
 ```
 
 2. Acesse o diretório do projeto:

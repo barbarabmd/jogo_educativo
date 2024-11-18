@@ -56,7 +56,7 @@ git clone
 2. Acesse o diretório do projeto:
 
 ```bash
-cd 
+cd jogo_educativo
 ```
 
 3. Instale os requisitos necessários:

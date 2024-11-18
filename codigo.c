@@ -198,7 +198,7 @@ void jogar(Calcular *calcular){
     case 3:
         printf("\nA operacao sorteada foi divisao!\n");
         if(calcular->valor2 == 0){
-            rand() %(max + 1 + 1) + 1;
+            calcular->valor2 = rand() % (max + 1);
         }
         calcular->resultado = dividir(calcular->valor1, calcular->valor2);
         break;
